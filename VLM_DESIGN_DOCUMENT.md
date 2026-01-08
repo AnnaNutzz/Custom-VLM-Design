@@ -136,12 +136,12 @@ Visual Features (V) ─────┐
                          ├──▶ Spatial Cross-Attention ──▶ Fused Features
 Text Query (Q) ──────────┘          │
                                     │
-                    ┌───────────────┘
-                    ▼
-            Region Proposal Network (RPN)
-                    │
-                    ▼
-            Defect-Specific Attention Pooling
+                                    |
+                                    ▼
+                            Region Proposal Network (RPN)
+                                    │
+                                    ▼
+                            Defect-Specific Attention Pooling
 ```
 
 **Key Innovation**: The fusion layer learns to attend to defect-relevant regions based on the text query. For "count solder bridges", it focuses on solder joint areas.
