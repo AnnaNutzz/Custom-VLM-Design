@@ -2,6 +2,8 @@
 
 ## Overview
 
+[Demo Video](https://drive.google.com/file/d/1-RcD0T5WRGID2ioFekOA4Epme4ZJX9EK/view?usp=sharing)
+
 This document presents a comprehensive design for a Vision-Language Model (VLM) solution for PCB (Printed Circuit Board) defect inspection in semiconductor manufacturing.
 
 ## Problem Statement
